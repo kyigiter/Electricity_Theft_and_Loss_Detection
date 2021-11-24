@@ -1,1 +1,4 @@
-# Electricity_theft_and_loss_detection
+# Electricity Theft and Loss Detection Project
+
+
+# Nitelikli Kaçak Tespiti Projesi
